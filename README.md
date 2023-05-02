@@ -17,3 +17,10 @@ Pentest Tools Collection
 3. 如您在使用工具的过程中存在任何非法行为，您需自行承担相应后果，作者将不承担任何法律及连带责任。
 
 ## 工具列表
+
+| 工具名称 | 文件Hash                                                     | 描述                                                         |
+| -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| bantam   | 6be7f1ab3f1920abda5519f509cc42c4d38dfaba766a6c457f613980fe738439 | A PHP backdoor management and generation tool/C2 featuring end to end encrypted payload streaming designed to bypass WAF, IDS, SIEM systems.s |
+|          |                                                              |                                                              |
+|          |                                                              |                                                              |
+
