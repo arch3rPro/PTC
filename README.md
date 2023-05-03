@@ -18,9 +18,9 @@ Pentest Tools Collection
 
 ## 工具列表
 
-| 工具名称 | 文件Hash                                                     | 描述                                                         |
-| -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| bantam   | 6be7f1ab3f1920abda5519f509cc42c4d38dfaba766a6c457f613980fe738439 | A PHP backdoor management and generation tool/C2 featuring end to end encrypted payload streaming designed to bypass WAF, IDS, SIEM systems.s |
-|          |                                                              |                                                              |
-|          |                                                              |                                                              |
+| 工具名称           | 文件Hash                                                     | 描述                                                         |
+| ------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| bantam             | 6be7f1ab3f1920abda5519f509cc42c4d38dfaba766a6c457f613980fe738439 | A PHP backdoor management and generation tool/C2 featuring end to end encrypted payload streaming designed to bypass WAF, IDS, SIEM systems.s |
+| yujianportscan2020 | 9792ea6139d49942a2f078f939704f0e7d9fd1b34cdfbd0834a83df2cfcb3789 | 一个基于VB.NET + IOCP模型开发的高效端口扫描工具，支持IP区间合并，端口区间合并，端口指纹深度探测 |
+|                    |                                                              |                                                              |
 
