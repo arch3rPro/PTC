@@ -26,4 +26,4 @@ Pentest Tools Collection
   - **文件Hash:** 9792ea6139d49942a2f078f939704f0e7d9fd1b34cdfbd0834a83df2cfcb3789
 - **Sky20211122**
   - 天蝎是一款基于冰蝎加密流量进行WebShell通信管理客户端
-  - **文件Hash:**7df3e1b66b09a783549d3a05f858b2a464904964c03d7af068d058223615e92c
+  - **文件Hash:** 7df3e1b66b09a783549d3a05f858b2a464904964c03d7af068d058223615e92c
